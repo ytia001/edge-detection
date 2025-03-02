@@ -1,4 +1,4 @@
-namespace EdgeDetectionProject.Interfaces
+namespace ImageEdgeDetection.Interfaces
 {
   using Emgu.CV;
 
