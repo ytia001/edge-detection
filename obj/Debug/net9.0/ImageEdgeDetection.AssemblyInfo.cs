@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageEdgeDetection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e874150e3117812fed78b36c0edb901df4972c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371d0a72343066e170e0bfa73b8113a340ce976b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageEdgeDetection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageEdgeDetection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
