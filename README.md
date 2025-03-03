@@ -39,3 +39,9 @@ Ensure you have the following installed:
 1. User will be prompted to enter an image file path 
 2. User will then select whether to use Sobel or Prewitt Edge Operator for Edge Detection 
 3. Original grayscale image and the Edge Detected image will be displayed 
+
+## Future Plans (03/03/2025)
+Due to time constraints, the following enhancements are planned for future implementation:
+1. Implement an edge detection operator (Sobel/Prewitt) without using Emgu.CV — by manually constructing the algorithm
+2. Integrate unit tests for the project using xUnit
+3. Add a UML diagram to improve project documentation
