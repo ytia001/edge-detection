@@ -21,7 +21,6 @@ Ensure you have the following installed:
 
 2. **Ensure Prerequisites are Installed**  
    - Make sure you have all the required dependencies installed on your system.  
-   - Emgu can be downloaded from the `dependencies` folder.  
 3. Locate to project directory & Install Dependencies 
     ```sh
     dotnet restore
